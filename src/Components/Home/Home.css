@@ -1,0 +1,10 @@
+.bg-orange{
+    background: #f85428;
+
+
+}
+.btn-outline-success{
+    background: #FCB026;
+    color: rgba(9, 9, 2, 0.93);
+    border: #f85428;
+}
